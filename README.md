@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tech-CoderYT
 - 👀 I’m interested in HTML, CSS, JS, Bootstrap, Inkscape, Django, Linux
 - 🌱 I’m currently learning JS & Django
-- 💞️ I’m looking to collaborate on -
 - 📫 How to reach me www.tech-coder.net
 
 <!---
