@@ -1,5 +1,7 @@
 tech-coder a.k.a. vizual.s :)
 https://tech-coder.net
+
+my first repo: https://img.shields.io/github/watchers/viz-codes/herta-kuru-werbsite?style=social
 <!--This is from like 2021 😂
 - 👋 Hi, I’m @Tech-CoderYT
 - 👀 I’m interested in HTML, CSS, JS, Bootstrap, Inkscape, Django, Linux
